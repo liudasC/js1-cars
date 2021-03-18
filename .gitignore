@@ -1,0 +1,11 @@
+# Ignoruoja node_modules aplankus ir juose esanti turini
+node_modules/
+
+# Ignoruoja .env faila aplanke server
+server/.env
+
+# Ignoruoja failus pavadinimu package-lock.json
+package-lock.json
+
+# Ignoruoja .vscode/ aplanka ir jame esanti turini
+.vscode/
