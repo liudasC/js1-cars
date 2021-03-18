@@ -1,3 +1,1 @@
-# js1-cars
-
-FS MERN
+# Fulls tack MERN project
