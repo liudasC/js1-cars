@@ -1,1 +1,1 @@
-# Fulls tack MERN project
+# FS MERN project
