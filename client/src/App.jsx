@@ -1,11 +1,16 @@
-import React from "react";
+import React from 'react';
+import CarsManager from './components/CarsManager';
 
-class App extends React.Component{
+class App extends React.Component {
+
   render() {
-    <div className="App">
 
-    </div>
-  };
+    return (
+      <div className="App" >
+        <CarsManager />
+      </div>
+    );
+  }
 }
 
 export default App;
